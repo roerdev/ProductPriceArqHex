@@ -37,7 +37,7 @@ El microservicio se ha creado de tal manera que puedas levantarlo en docker medi
 
 ## Levantar la Aplicación
 
-Para levantar la app puedes hacerlo por Docker, desde un IDE (Ej: Intellij IDEA), o tambien puedes compilar la app con mvn y ejecutarla con Java usando el comando **java -jar target/product-price-0.0.1-SNAPSHOT.jar**
+Para levantar la app puedes hacerlo por Docker, desde un IDE (Ej: Intellij IDEA), o tambien puedes compilar la app con mvn y ejecutarla con Java usando el comando **java -jar target/boot-1.0-SNAPSHOT.jar**
 
 ## Pruebas Integradas
 
